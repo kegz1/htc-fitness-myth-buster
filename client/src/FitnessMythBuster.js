@@ -65,7 +65,7 @@ export default function FitnessMythBuster() {
   return (
     <div className="flex flex-col min-h-screen bg-gray-50">
       <header className="bg-black text-white shadow-md py-4">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-4 text-center">
           <h1 className="text-2xl font-bold">HTC FITNESS MYTH BUSTER</h1>
         </div>
       </header>
